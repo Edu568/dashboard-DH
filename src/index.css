@@ -5710,7 +5710,7 @@ button.bg-light:hover {
   background-color: #d4daed !important;
 }
 .bg-dark {
-  background-color: #5a5c69 !important;
+  background-color: #FFE61B !important;
 }
 a.bg-dark:focus,
 a.bg-dark:hover,
@@ -9281,7 +9281,7 @@ a:focus {
   text-align: center;
   padding: 0 1rem;
   font-weight: 800;
-  font-size: 0.65rem;
+  font-size: 1.65rem;
 }
 @media (min-width: 768px) {
   .sidebar {
